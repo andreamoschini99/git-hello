@@ -3,3 +3,4 @@ Idee per il sito del Pixel Café
 - mettere una mappa con l'indirizzo
 - form per prenotare un tavolo
 - cambiare i colori del footer
+- cambiare logo
